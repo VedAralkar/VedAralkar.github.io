@@ -3,11 +3,19 @@
 
 @import "minimal-light";
 
-// Enlarge avatar image
+// Override avatar size for all screens
 .avatar img {
-  width: 180px !important;
-  height: 180px !important;
+  width: 200px !important;
+  height: 200px !important;
   border-radius: 50%;
   display: block;
   margin: 0 auto 20px;
+}
+
+// Optional: adjust on smaller mobile screens
+@media screen and (max-width: 480px) {
+  .avatar img {
+    width: 180px !important;
+    height: 180px !important;
+  }
 }
