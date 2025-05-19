@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a computer engineer and AI researcher passionate about reinforcement learning, natural language processing, and multimodal deep learning.
+My work spans robotic manipulation, factual QA systems using LLMs and knowledge graphs, and real-world benchmarking of AI models.
+I enjoy building intelligent systems that combine research innovation with practical impact.
 
 ## Research Interests
 
