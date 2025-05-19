@@ -3,10 +3,11 @@
 
 @import "minimal-light";
 
-// Override avatar size
-#avatar {
-  width: 200px;   // Or 200px
-  height: 200px;
+// Enlarge avatar image
+.avatar img {
+  width: 180px !important;
+  height: 180px !important;
   border-radius: 50%;
-  margin-bottom: 20px;
+  display: block;
+  margin: 0 auto 20px;
 }
