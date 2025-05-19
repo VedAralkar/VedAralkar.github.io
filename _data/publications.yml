@@ -1,13 +1,12 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+  - title: Fetch Benchmarking with DreamerV3 and SAC
+    authors: Tushar Deshpande
+    conference_short:
+    conference: ABC, 2025.
+    pdf: https://github.com/tsd10/Fetch--Dreamer-Vs-SAC/blob/main/DRL_Final_Project_SAC_Dreamer_Fetchv3_tushard.pdf
+    code: https://github.com/tsd10/Fetch--Dreamer-Vs-SAC/tree/main
+    image: ./assets/img/Fetch paper snippet.png
     notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
