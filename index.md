@@ -10,8 +10,8 @@ I enjoy building intelligent systems that combine research innovation with pract
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Reinforcement Learning:** Model Free/Model Based Algorithms, Exploration-Exploitation, Robotics
+- **Deep Learning:** Multi-Model Deep Learning, Small Language Models, Unsupervised Learning (GANs, VAEs)
 
 ## News
 
