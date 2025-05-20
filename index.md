@@ -17,7 +17,7 @@ I enjoy building intelligent systems that combine research innovation with pract
 
 - **[May. 2025]** Our paper about Fetch benchmarking using DreamerV3 and SAC is out.
 - **[May. 2025]** Completed a project using Completion Graphs & Small Language Models with LORA, MOE architecture for factual correctness
-- **[Dec. 2020]** Completed a paper and project on image coloration using Unsupervised Deep Learning models! 
+- **[Dec. 2024]** Completed a paper and project on image coloration using Unsupervised Deep Learning models! 
 
 {% include_relative _includes/projects.md %}
 
