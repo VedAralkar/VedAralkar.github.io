@@ -15,10 +15,9 @@ I enjoy building intelligent systems that combine research innovation with pract
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2025]** Our paper about Fetch benchmarking using DreamerV3 and SAC is out.
+- **[May. 2025]** Completed a project using Completion Graphs & Small Language Models with LORA, MOE architecture for factual correctness
+- **[Dec. 2020]** Completed a paper and project on image coloration using Unsupervised Deep Learning models! 
 
 {% include_relative _includes/projects.md %}
 
