@@ -2,10 +2,5 @@
   description: "Built a domain-aware Mixture-of-Experts QnA system over CoDEx KG with LoRA-finetuned expert models and hallucination-checking fact verifier."
   code: "https://github.com/tsd10/Fact-Checking-QnA-System--CG-and-MOEs"
   paper_pdf: "https://github.com/tsd10/Fact-Checking-QnA-System--CG-and-MOEs/blob/main/NLP_Final_Project_Report_tushard.pdf"
-  image: "./assets/img/moe.png"
+  image: "./assets/img/FQnA_system.png"
   notes: "Final Project, Spring 2025"
-
-- title: "Pig BCS Prediction with YOLO + SAM2 + ResNet"
-  description: "End-to-end RGB-D pipeline using YOLOv5 and SAM2 for pig segmentation and BCS scoring via ResNet50. Achieved 80% accuracy."
-  code: "https://github.com/tsd10/Pig-BCS-Scoring"
-  image: "./assets/img/bcs.png"
