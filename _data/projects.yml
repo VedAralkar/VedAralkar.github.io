@@ -1,6 +1,5 @@
 - title: "Factual QnA System using MoE + LLMs"
   description: "Built a domain-aware Mixture-of-Experts QnA system over CoDEx KG with LoRA-finetuned expert models and hallucination-checking fact verifier."
   code: "https://github.com/tsd10/Fact-Checking-QnA-System--CG-and-MOEs"
-  paper_pdf: "https://github.com/tsd10/Fact-Checking-QnA-System--CG-and-MOEs/blob/main/NLP_Final_Project_Report_tushard.pdf"
   image: "./assets/img/FQnA_system.png"
   notes: "Final Project, Spring 2025"
