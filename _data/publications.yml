@@ -13,6 +13,7 @@ main:
     authors: <strong>Tushar Deshpande</strong>
     conference_short:
     conference: XYZ, 2025.
+    pdf: https://tsd10.github.io/image-colorization/
     code: https://github.com/tsd10/image-colorization
     page: https://tsd10.github.io/image-colorization/
     notes: Early Accept
