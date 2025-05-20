@@ -1,7 +1,7 @@
 main:
 
   - title: Fetch Benchmarking with DreamerV3 and SAC
-    authors: Tushar Deshpande
+    authors: <strong>Tushar Deshpande</strong>
     conference_short:
     conference: ABC, 2025.
     pdf: https://github.com/tsd10/Fetch--Dreamer-Vs-SAC/blob/main/DRL_Final_Project_SAC_Dreamer_Fetchv3_tushard.pdf
@@ -9,13 +9,11 @@ main:
     image: ./assets/img/Fetch paper snippet.png
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "mage Coloration using Deep Learning models "
+    authors: <strong>Tushar Deshpande</strong>
+    conference_short:
+    conference: XYZ, 2025.
+    code: https://github.com/tsd10/image-colorization
+    page: https://tsd10.github.io/image-colorization/
+    notes: Early Accept
+    image: ./assets/img/Image_coloration.png
