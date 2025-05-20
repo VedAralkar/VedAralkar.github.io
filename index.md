@@ -20,6 +20,8 @@ I enjoy building intelligent systems that combine research innovation with pract
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
+{% include_relative _includes/projects.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
