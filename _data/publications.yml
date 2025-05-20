@@ -9,7 +9,7 @@ main:
     image: ./assets/img/Fetch paper snippet.png
     notes: Early Accept
 
-  - title: "mage Coloration using Deep Learning models "
+  - title: "Image Coloration using Deep Learning models "
     authors: <strong>Tushar Deshpande</strong>
     conference_short:
     conference: XYZ, 2025.
