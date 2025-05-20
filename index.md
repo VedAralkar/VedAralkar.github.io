@@ -22,4 +22,6 @@ I enjoy building intelligent systems that combine research innovation with pract
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/projects.md %}
+
 {% include_relative _includes/services.md %}
